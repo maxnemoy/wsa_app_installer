@@ -10,7 +10,7 @@
 ![2.png](./img/2.png)
 - insert the IP address and click "Set"
 ![3.png](./img/3.png)
-- drag the apk file (or install)
+- drag the apk file (or install HuaweiAppGallery)
 ![5.gif](./img/5.gif)
 
 ## Getting Started
