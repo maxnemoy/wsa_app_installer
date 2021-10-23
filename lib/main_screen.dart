@@ -26,7 +26,7 @@ class _MainPageState extends State<MainPage> {
     print(MediaQuery.of(context).size.width);
     return Scaffold(
       appBar: AppBar(
-        title: const Text("WSA App Installer (experemental)"),
+        title: const Text("WSA App Installer (Experimental)"),
       ),
       body: _adb == null
           ? Center(
