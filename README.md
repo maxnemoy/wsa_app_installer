@@ -2,7 +2,7 @@
 
 !> Attention! Does not need to be pinned high hopes. it's just an experiment for fun.
 
-- download the latest release
+- [download the latest release](https://github.com/maxnemoy/wsa_app_installer/releases/download/exp_rls/wsa_installer.zip)
 - unpack the zip archive
 - start WSA, turn on developer mode and copy the IP address
 ![1.png](./img/1.png)
