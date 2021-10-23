@@ -1,6 +1,17 @@
 # wsa_app_installer
 
-A new Flutter project.
+!> Attention! Does not need to be pinned high hopes. it's just an experiment for fun.
+
+- download the latest release
+- unpack the zip archive
+- start WSA, turn on developer mode and copy the IP address
+![1.png](./img/1.png)
+- run wsa_app_installer.exe
+![2.png](./img/2.png)
+- insert the IP address and click "Set"
+![3.png](./img/3.png)
+- drag the apk file (or install)
+![5.gif](./img/5.gif)
 
 ## Getting Started
 
